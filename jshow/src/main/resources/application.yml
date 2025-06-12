@@ -22,4 +22,4 @@ spring:
             required: true
 
 
-tokenSign: jerry=-0
+tokenSign: Jerry=01234
